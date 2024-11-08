@@ -14,6 +14,7 @@ const App = () => {
   const user = {
     name: "naoras",
     age: 37,
+    loc: "darra",
   };
   return (
     <>
