@@ -1,7 +1,15 @@
-import React from "react";
-
 const Newcomp = () => {
-  return <div>Newcomp</div>;
+  return (
+    <div>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
+  );
 };
 
 export default Newcomp;
